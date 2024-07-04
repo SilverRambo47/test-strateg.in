@@ -1,0 +1,1 @@
+# test-strateg.in
